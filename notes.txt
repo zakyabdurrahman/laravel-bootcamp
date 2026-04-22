@@ -1,0 +1,10 @@
+- typical MVC framework but very modern (for example there is 
+  tooling for db migrations, dependency injection (using Service
+  Container))
+
+- the dependency injection is very simple and magical. just type
+  hint the class to a variable inside an object/class now can use
+  it! magic!
+
+  
+
