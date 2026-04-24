@@ -6,5 +6,6 @@
   hint the class to a variable inside an object/class now can use
   it! magic!
 
-  
+- to group and nest routes like I did with CI4, use Route
+  Group with prefix
 
